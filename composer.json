@@ -1,0 +1,15 @@
+{
+    "name": "components/foundation-assets",
+    "description": "Assets for Foundation5",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "select2/select2-foundation5.css"
+            ]
+        }
+    }
+}
