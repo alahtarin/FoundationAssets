@@ -1,0 +1,9 @@
+{
+  "name": "foundation-assets",
+  "repo": "components/foundation-assets",
+  "version": "0.12",
+  "description": "Assets for Foundation5",
+  "files": [
+    "select2/select2-foundation5.css"
+  ]
+}
