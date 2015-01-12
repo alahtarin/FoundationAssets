@@ -1,5 +1,5 @@
 {
-    "name": "components/foundation-assets",
+    "name": "alahtarin/foundation-assets",
     "description": "Assets for Foundation5",
     "type": "component",
     "require": {
