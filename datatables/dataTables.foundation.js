@@ -26,7 +26,7 @@ $.extend( true, DataTable.defaults, {
 	dom:
 		"<'row'<'small-6 columns'l><'small-6 columns'f>r>"+
 		"t"+
-		"<'row'<'small-6 columns'i><'small-6 columns'p>>",
+		"<'row dt-footer-row'<'small-6 columns'i><'small-6 columns'p>>",
 	renderer: 'foundation'
 } );
 
